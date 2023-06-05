@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cong Hieu</h1>
 <h3 align="center">A mechatronics student at Ho Chi Minh City University of Technology</h3>
 
-- 📫 How to reach me **hieu.nguyen.benz@hcmut.edu.vn**
+- 📫 My email: **hieu.nguyen.benz@hcmut.edu.vn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
