@@ -2,7 +2,7 @@
 <h3 align="center">A mechatronics student at Ho Chi Minh City University of Technology</h3>
 
 - Email: **hieu.nguyen.benz@hcmut.edu.vn**
-- Phone: **(+84) 938 004 209**
+- Phone: (+84) 938 004 209
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
