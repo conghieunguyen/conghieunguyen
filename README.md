@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/nguyenconghieu.benz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nguyenconghieu.benz" height="40" width="40" /></a>
-<a href="https://www.facebook.com/nguyenconghieu.benz/" target="blank"><img align="center" src="https://icons8.com/icon/qyRpAggnV0zH/gmail" alt="https://www.facebook.com/nguyenconghieu.benz" height="40" width="40" />
+<a href="https://www.facebook.com/nguyenconghieu.benz/" target="blank"><img align="center" src="<img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail-new"/>" alt="https://www.facebook.com/nguyenconghieu.benz" height="40" width="40" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
